@@ -1,3 +1,3 @@
-# grammicode-blog.github.io
-## Grammicode's blog.
-All posts go to the "master" branch (aka here).
+# drafts
+## Writer's branch.
+All posts are written here, then sent to "pending-approval".
